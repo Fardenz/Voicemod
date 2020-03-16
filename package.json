@@ -1,0 +1,19 @@
+{
+  "name": "voicemod-aplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fardenz/Voicemod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fardenz/Voicemod/issues"
+  },
+  "homepage": "https://github.com/Fardenz/Voicemod#readme"
+}
