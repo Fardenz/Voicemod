@@ -10,7 +10,7 @@ Posteriormente se deberá crear en el directorio raíz un archivo llamado _.env_
 
 Esto configurará las rutas hacia la BBDD.
 
-Posteriormente ejectuaremos `npm install` para obtener las dependencias del proyecto.
+Después, ejectuaremos `npm install` para obtener las dependencias del proyecto.
 
 Y por último ejecutaremos el _index.js_ con `node index.js`
 
